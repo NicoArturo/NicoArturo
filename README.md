@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I am Nicolas Jaramillo!  
 
-<!--
-**NicoArturo/NicoArturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems engineer with knowledge of software development, Python, JavaScript, and SQL. Passionate about technology and always eager to learn and grow in the field of software development. Seeking opportunities to enhance my skills and contribute to innovative projects. 🚀  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript  
+- **Databases:** SQL  
+
+## 📬 Connect with me  
+
+- 📧 **Email:** [nijaramillog@unal.edu.co](mailto:nijaramillog@unal.edu.co)  
+- 📱 **Phone number:** +57 320 436 6730  
